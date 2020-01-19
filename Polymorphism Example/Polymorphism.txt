@@ -1,0 +1,15 @@
+Polymorphism in Java:
+	The ability for an object to take on many different forms, most commonly through the use of polymorphism through superclass references
+	to a subclass object. 
+	Any Java object that can pass more than one IS-A test is considered to be polymorphic, and the only possible way to access an object
+	is through a reference variable, which can only be of one type.
+
+Advantages:
+	- method overloading allows methods with similar functions to be accessed through one method name
+	- can be implemented to constructors to initialize objects in class differently
+	- allows subclasses to use all definitions from the superclass
+ 
+Disadvantages:
+	- developers find it difficult to implement into code
+	- performance issues during run time due to machine needing to decide which method to run
+	- reduces readability of the program

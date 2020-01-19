@@ -1,0 +1,13 @@
+Inheritance in Java:
+	The process of a child class inheriting the properties associated with the parent class.
+	A class can inherit off of a singular superclass by using the extends keyword.
+
+Advantages:
+	- related classes using the same fields do not have to waste space with repeated code
+	- organizes code by shortening similar class properties
+ 
+Disadvantages:
+	- requires heavy documentation to be useful
+	- class must be designed for inheritance
+	- composition is preferred over inheritance
+	- can only have one super class (no hybrid inheritance)
